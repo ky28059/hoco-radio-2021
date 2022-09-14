@@ -10,3 +10,5 @@ throw strange syntax errors when attempting to run it).
 to keep the school start and end times at their expected values. The script begins playing music
 45 minutes before school, sets volume to 10% during class time, and stops playing music 15 minutes
 after school.
+
+The playlist played on the float can be found here: https://www.youtube.com/playlist?list=PL7WwPfnTGk9GW05Det59HXNWPIMHqrL-A
